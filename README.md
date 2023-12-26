@@ -1,6 +1,7 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+https://breynaputra1101.wordpress.com/2023/12/13/computational-thingking/
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
@@ -117,6 +118,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+https://breynaputra1101.wordpress.com/2023/12/25/seluruh-profesi-yang-terkait-informatika/
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
