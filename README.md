@@ -25,6 +25,7 @@ Referensi [1](https://scratch.mit.edu/)
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+https://youtu.be/Kw1BhjGy7CI?si=R6_v-erZce_xEebD
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 https://youtu.be/mWrxMbD0IxM?si=DazXHSUMrAq7I9SX
@@ -33,6 +34,7 @@ https://youtu.be/mWrxMbD0IxM?si=DazXHSUMrAq7I9SX
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
+https://youtu.be/9wpZNLl2UOQ?si=FsXFvsclj9kW7MoP
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
@@ -57,10 +59,7 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+https://youtu.be/aIdtxaz0Ico?si=78cVUe8pCf3SmPf1
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
@@ -103,8 +102,10 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+https://youtu.be/x9IO1x2ogoc?si=6emyHmhpV30V9xzk
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+https://youtu.be/VShFzTdX5po?si=Tn_zClBYkN59Coma
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
@@ -131,6 +132,7 @@ https://youtu.be/gAbdJJ3MKlg?si=7-De6nXRzA4SROK1
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+https://youtu.be/dCkyX3tBwn0?si=BFOClUYfYfJgJCbk
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
