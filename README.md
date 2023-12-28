@@ -90,8 +90,10 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 https://youtu.be/mXXKZmHDv54
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+https://youtu.be/XE89X2sGFHo?si=hSr0m12RIPf7UiwD
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+https://youtu.be/XE89X2sGFHo?si=hSr0m12RIPf7UiwD
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
