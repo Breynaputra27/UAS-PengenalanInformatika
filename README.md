@@ -55,8 +55,7 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 https://breynaputra1101.wordpress.com/2023/12/26/penjelasan-penggunaan-web-browser-untuk-mengakses-halaman-website-html/
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
+https://breynaputra1101.wordpress.com/2023/12/28/url/
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
