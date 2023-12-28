@@ -4,8 +4,10 @@
 https://breynaputra1101.wordpress.com/2023/12/13/computational-thingking/
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+https://breynaputra1101.wordpress.com/2023/12/28/jenis-jenis-mesin-komputasi/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+https://youtu.be/SseRhRTcNf8
 
 ## Mencoba Console Sistem Operasi
 
