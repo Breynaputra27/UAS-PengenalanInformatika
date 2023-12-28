@@ -147,6 +147,7 @@ https://youtu.be/dCkyX3tBwn0?si=BFOClUYfYfJgJCbk
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+https://github.com/Breynaputra27/
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
