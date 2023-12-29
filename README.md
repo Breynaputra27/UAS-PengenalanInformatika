@@ -123,6 +123,7 @@ https://youtu.be/VShFzTdX5po?si=Tn_zClBYkN59Coma
 https://breynaputra1101.wordpress.com/2023/12/26/pengertian-jurnal-conference-artikel-grade-jurnal/
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+https://youtu.be/V7BenhOIQdg
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 https://breynaputra1101.wordpress.com/2023/12/29/menonton-presentasi-tugas-akhir-informatika/
@@ -158,6 +159,7 @@ https://github.com/Breynaputra27/
 [Coursera.pdf](https://github.com/Breynaputra27/UAS-PengenalanInformatika/files/13791734/Coursera.pdf)
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+https://breynaputra1101.wordpress.com/2023/12/29/buku-psychology-of-money/
 
 
 
