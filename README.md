@@ -145,11 +145,13 @@ https://youtu.be/dCkyX3tBwn0?si=BFOClUYfYfJgJCbk
 https://youtu.be/JXdCum5-0Bw?si=jX3qn8S5DBcvbg12
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+https://www.linkedin.com/in/breyna-putra-tarigan-3b95a52a6/
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 https://github.com/Breynaputra27/
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+[Coursera.pdf](https://github.com/Breynaputra27/UAS-PengenalanInformatika/files/13791734/Coursera.pdf)
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
