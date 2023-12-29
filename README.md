@@ -124,6 +124,7 @@ https://breynaputra1101.wordpress.com/2023/12/26/pengertian-jurnal-conference-ar
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+https://breynaputra1101.wordpress.com/2023/12/29/menonton-presentasi-tugas-akhir-informatika/
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 https://breynaputra1101.wordpress.com/2023/12/25/seluruh-profesi-yang-terkait-informatika/
@@ -132,6 +133,7 @@ https://breynaputra1101.wordpress.com/2023/12/25/seluruh-profesi-yang-terkait-in
 https://youtu.be/gAbdJJ3MKlg?si=7-De6nXRzA4SROK1
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+https://youtu.be/tIzpZZltLvM
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 https://youtu.be/ZskZ78sQ1wU?si=gFY3IsqDYaDCPKpU
