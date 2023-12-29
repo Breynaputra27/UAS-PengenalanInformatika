@@ -21,6 +21,7 @@ https://youtu.be/eOW_3ItD10g?si=R3tGxgQ7SFh9YayU
 https://youtu.be/y-YkocCjnSs?si=uM0JTkApvvRPD3M6
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+https://youtu.be/vajK9IsoM6o?si=aL4QcNk-DI2wwz5s
 
 Referensi [1](https://scratch.mit.edu/)
 
@@ -68,6 +69,7 @@ https://youtu.be/aIdtxaz0Ico?si=78cVUe8pCf3SmPf1
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+https://youtu.be/fiqNaoynH34?si=I0D1rajl7dJcmsWZ
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
@@ -143,7 +145,8 @@ https://youtu.be/CXG-V30zRtg?si=WZUi-ZpAt_PYz6JI
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 https://youtu.be/dCkyX3tBwn0?si=BFOClUYfYfJgJCbk
 
-## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+## Eksplorasi Top Github Project yang Diminati ⭐⭐
+https://youtu.be/JXdCum5-0Bw?si=jX3qn8S5DBcvbg12
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
