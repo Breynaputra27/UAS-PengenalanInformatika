@@ -81,9 +81,8 @@ https://youtu.be/fiqNaoynH34?si=I0D1rajl7dJcmsWZ
 https://youtu.be/r6tSfLYQSMU?si=VM9tfdhpzOUglDC7
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-
-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
+https://breynaputra1101.wordpress.com/2023/12/29/mengeksplorasi-dan-menjelaskan-layanan-cloud-service-yang-diminati/
+[Google Cloud Platform](https://cloud.google.com) 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 https://youtu.be/mXXKZmHDv54
