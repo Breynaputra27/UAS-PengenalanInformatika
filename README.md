@@ -57,8 +57,7 @@ https://breynaputra1101.wordpress.com/2023/12/26/penjelasan-penggunaan-web-brows
 https://breynaputra1101.wordpress.com/2023/12/28/url/
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+https://youtu.be/4kxbDtZbN08
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
@@ -82,7 +81,6 @@ https://youtu.be/r6tSfLYQSMU?si=VM9tfdhpzOUglDC7
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 https://breynaputra1101.wordpress.com/2023/12/29/mengeksplorasi-dan-menjelaskan-layanan-cloud-service-yang-diminati/
-[Google Cloud Platform](https://cloud.google.com) 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 https://youtu.be/mXXKZmHDv54
