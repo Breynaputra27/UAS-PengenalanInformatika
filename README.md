@@ -70,9 +70,10 @@ https://breynaputra1101.wordpress.com/ https://www.youtube.com/@braaych4317/vide
 https://youtu.be/fiqNaoynH34?si=I0D1rajl7dJcmsWZ
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
+https://youtu.be/2SXaRdtyVQ8
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+https://youtu.be/2SXaRdtyVQ8
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 https://youtu.be/JNb6r8b28jM
