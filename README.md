@@ -100,10 +100,12 @@ https://youtu.be/gyo90JdDMtM
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+https://youtu.be/pPHfTu0AIqU
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+https://youtu.be/CxlA1mg0Wnw
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
@@ -116,8 +118,10 @@ https://youtu.be/VShFzTdX5po?si=Tn_zClBYkN59Coma
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+https://youtu.be/LVk1cDws2d0
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+https://youtu.be/D-h6P8x2chc
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 https://breynaputra1101.wordpress.com/2023/12/26/pengertian-jurnal-conference-artikel-grade-jurnal/
