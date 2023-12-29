@@ -16,6 +16,7 @@ https://youtu.be/SseRhRTcNf8
 https://youtu.be/eOW_3ItD10g?si=R3tGxgQ7SFh9YayU
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+https://youtu.be/UeuT80ssvzY
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 https://youtu.be/y-YkocCjnSs?si=uM0JTkApvvRPD3M6
@@ -23,9 +24,8 @@ https://youtu.be/y-YkocCjnSs?si=uM0JTkApvvRPD3M6
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 https://youtu.be/vajK9IsoM6o?si=aL4QcNk-DI2wwz5s
 
-Referensi [1](https://scratch.mit.edu/)
-
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+https://youtu.be/dgJL2Zhrs1Y
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 https://youtu.be/Kw1BhjGy7CI?si=R6_v-erZce_xEebD
