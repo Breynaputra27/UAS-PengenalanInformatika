@@ -100,6 +100,7 @@ https://youtu.be/gyo90JdDMtM
 https://youtu.be/wh8Ok1LtpTA
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+https://youtu.be/g_O4BEZSYJI
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 https://youtu.be/pPHfTu0AIqU
